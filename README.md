@@ -1,4 +1,5 @@
-## Agenda : Spring Boot Application with Payment Gateway : (Type - Razorpay)
+## Agenda : Spring Boot Application with Payment Gateway : 
+### Type - Razorpay
 
 ### Pre-Requisites: 
 - Spring Boot
